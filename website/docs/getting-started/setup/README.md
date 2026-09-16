@@ -1,4 +1,4 @@
----
+j---
 description: Appsmith is open source and very easy to deploy on your machine.
 slug: /getting-started/setup
 sidebar_position: 3
